@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "h0cn+MDXOLorvY/np5VppbexKshdtmwjltRzB8/1FCU=",
+  "Source": "back",
+  "BasePath": "_content/back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "back\\wwwroot",
+      "Source": "back",
+      "ContentRoot": "C:\\Users\\melyo\\Documents\\github\\melyonousi\\dotnet-angular\\dot-net\\dotnet-angular-demo-05\\back\\wwwroot\\",
+      "BasePath": "_content/back",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
